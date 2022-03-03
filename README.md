@@ -1,11 +1,10 @@
-# python_file_compressor
-Python file compressor
+# python_api_apps
+Using python language to create, consume and filter api 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-Compress pdf image. Replace with your file in the code
+Consume, create and filter apis
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -41,7 +40,7 @@ All requires library are present in requirements.txt  file.
 
 2. Clone the repo
    ```sh
-   git clone git@github.com:dadalib/lunch_picker.gitl
+   git clone git@github.com:dadalib/api_apps.git
    ```
 3. Install  packages
    ```sh
